@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(2, 21, 49);
+    font-family: system-ui;
+    text-align: center;
+    color: rgb(231, 227, 0);
+}
+
+div#carneiros {
+    background: rgba(6, 28, 37, 0.507);
+    color: rgb(231, 227, 0);
+}
+
+img {
+    width: 300px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 1%;
+}
